@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <title>Moja Web Stranica</title>
+</head>
+<body>
+  <h1>Dobrodošao na moju web stranicu!</h1>
+  <p>Ovo je jednostavna HTML stranica.</p>
+</body>
+</html>
